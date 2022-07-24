@@ -3,7 +3,7 @@ intend to make a monitoring system for vehicles at turning points on roads to
 ensure that accidents do not happen and also to save time in case when no vehicles are ahead, by giving information 
 to a vehicle that there are no vehicles ahead and speed need not be reduced.
 
-The aim of our project is to efficiently monitor the vehicle’s movement near road turns to prevent accidents and also to save 
+The aim of the  project is to efficiently monitor the vehicle’s movement near road turns to prevent accidents and also to save 
 time if no vehicles are coming towards us, by getting information about the same.
 The following are objectives that will help us achieve our aim:
 1. To design a Vehicle Detecting Unit capable of locating vehicles in the vicinity of the road turns along with their 
